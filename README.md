@@ -1,5 +1,6 @@
 # lamborghini
 Landing page de la marca de carros Lamborghini y con su respectivo icono en la pestaña
+NO es Responsiva
 
 ![](https://github.com/GAMG-94/lamborghini/blob/main/img/black.jpg)
 
