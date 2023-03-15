@@ -1,19 +1,19 @@
 # lamborghini
 Landing page de la marca de carros Lamborghini
 
-![](https://github.com/GAMG-94/lamborghini/blob/main/img/Lamborghini_Black.jpg)
+![](https://github.com/GAMG-94/lamborghini/blob/main/img/black.jpg)
 
 Carro Color Azul
 
-![](https://github.com/GAMG-94/lamborghini/blob/main/img/Lamborghini_blue.jpg)
+![](https://github.com/GAMG-94/lamborghini/blob/main/img/blue.jpg)
 
 Carro Color Aguamarina
 
-![](https://github.com/GAMG-94/lamborghini/blob/main/img/Lamborghini_SeeGreen.jpg)
+![](https://github.com/GAMG-94/lamborghini/blob/main/img/seegreen.jpg)
 
 Carro Color Amarillo
 
-![](https://github.com/GAMG-94/lamborghini/blob/main/img/Lamborghini_Yellow.jpg)
+![](https://github.com/GAMG-94/lamborghini/blob/main/img/yellow.jpg)
 
 Boton Test Drive con Efecto Hover
 
