@@ -1,5 +1,5 @@
 # lamborghini
-Landing page de la marca de carros Lamborghini
+Landing page de la marca de carros Lamborghini y con su respectivo icono en la pestaña
 
 ![](https://github.com/GAMG-94/lamborghini/blob/main/img/black.jpg)
 
